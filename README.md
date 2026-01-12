@@ -23,24 +23,24 @@ A Python-based utility program designed to help students perform simple tasks, s
 
 1. Clone the repository:
 
-\`\`\`bash
-git clone https://github.com/yourusername/smart-student-utility.git
+```bash
+git clone https://github.com/ZannatulRaian/smart-student-utility.git
 cd smart-student-utility
-\`\`\`
+```
 
 2. Create a virtual environment (optional but recommended):
 
-\`\`\`bash
+```bash
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\\Scripts\\activate    # Windows
-\`\`\`
+```
 
 3. Install required dependencies:
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ---
 
@@ -48,9 +48,9 @@ pip install -r requirements.txt
 
 Run the main program:
 
-\`\`\`bash
+```bash
 python project.py
-\`\`\`
+```
 
 You will see a menu with options:
 
@@ -68,14 +68,14 @@ Follow the prompts to interact with the program.
 
 ## Project Structure
 
-\`\`\`
+```
 smart-student-utility/
 │
 ├── project.py          # Main program and custom functions
 ├── test_project.py     # Pytest unit tests
 ├── requirements.txt    # List of dependencies
 └── README.md           # Project documentation
-\`\`\`
+```
 
 ---
 
@@ -83,9 +83,9 @@ smart-student-utility/
 
 This project uses pytest for testing. To run all tests:
 
-\`\`\`bash
+```bash
 pytest
-\`\`\`
+```
 
 Tests include validation of:
 
