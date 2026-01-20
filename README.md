@@ -3,7 +3,7 @@
 # Smart Student Utility System
 
 </div>
-A Python-based utility program designed to help students perform simple tasks, such as integer input validation, basic calculations, text analysis, and file management. This project covers fundamental Python concepts including functions, type hints, docstrings, list and dictionary comprehensions, sets, file I/O, *args/**kwargs, and testing with pytest.
+A Python-based utility program designed to help students perform simple tasks, such as integer input validation, basic calculations, text analysis, and file management. This project covers fundamental Python concepts including functions, type hints, docstrings, list and dictionary comprehensions, sets, file I/O, args/ kwargs, and testing with pytest.
 
 ---
 
